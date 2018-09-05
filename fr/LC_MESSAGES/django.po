@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: MDN 2016.0\n"
 "Report-Msgid-Bugs-To: mdn-dev@mozilla.com\n"
 "POT-Creation-Date: 2018-08-30 13:01-0700\n"
-"PO-Revision-Date: 2018-09-02 07:08+0000\n"
-"Last-Translator: Alpha <adrien.gat@gmail.com>\n"
+"PO-Revision-Date: 2018-09-05 20:34+0000\n"
+"Last-Translator: Safwan <safwan.rahman15@gmail.com>\n"
 "Language-Team: French https://pontoon.mozilla.org/fr/\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -17,11 +17,11 @@ msgstr ""
 
 #: jinja2/403.html:5 jinja2/403.html:19 jinja2/handlers/400.html:5
 msgid "Permission Denied"
-msgstr "Permission refusée"
+msgstr "Permission refuséedjdnjdnkjd"
 
 #: jinja2/403.html:23
 msgid "The wiki is in read-only mode."
-msgstr "Le wiki est en mode lecture seule."
+msgstr "Le wiki est en mode lecture seuledldmkldmdl."
 
 #: jinja2/403.html:25
 msgid "You must sign in to view all history"
